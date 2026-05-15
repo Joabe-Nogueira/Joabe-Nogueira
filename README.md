@@ -8,30 +8,13 @@
 
 # 🚀 Tecnologias
 
+# 🚀 Tecnologias
+
 <p align="left">
-  <img 
-    alt="HTML"
-    title="HTML"
-    width="60px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
-  />
-
-  <img 
-    alt="CSS"
-    title="CSS"
-    width="60px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
-  />
-
-  <img 
-    alt="JavaScript"
-    title="JavaScript"
-    width="60px"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
-  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="60px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="60px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60px" />
 </p>
-
----
 
 # 📚 Atualmente estudando
 
