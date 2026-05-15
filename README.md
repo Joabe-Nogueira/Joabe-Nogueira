@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou Joabe Nogueira
+#👾 Joabe Nogueira
 
 💻 Desenvolvedor Full Stack em formação  
 🎓 Sistemas de Informação - UFR  
