@@ -6,24 +6,34 @@
 
 ---
 
-## 🚀 Tecnologias
+# 🚀 Tecnologias
 
-<div style="display: inline_block"><br>
+<p align="left">
+  <img 
+    alt="HTML"
+    title="HTML"
+    width="60px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+  />
 
-<img align="center" alt="HTML" height="50" width="60"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img 
+    alt="CSS"
+    title="CSS"
+    width="60px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+  />
 
-<img align="center" alt="CSS" height="50" width="60"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-
-<img align="center" alt="JavaScript" height="50" width="60"
-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-
-</div>
+  <img 
+    alt="JavaScript"
+    title="JavaScript"
+    width="60px"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+  />
+</p>
 
 ---
 
-## 📚 Atualmente estudando
+# 📚 Atualmente estudando
 
 - HTML5
 - CSS3
@@ -33,29 +43,29 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-or
 
 ---
 
-## 📌 Projetos
+# 📌 Projetos
 
 🔹 Jogo educacional baseado em comandos  
 🔹 Sistema de estoque em desenvolvimento  
 
 ---
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats
 
-<div>
-<a href="https://github.com/Joabe-Nogueira">
+<div align="left">
+  <img 
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=Joabe-Nogueira&show_icons=true&theme=tokyonight"
+  />
 
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api?username=Joabe-Nogueira&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
-
-<img height="180em"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joabe-Nogueira&theme=tokyonight&layout=compact&custom_title=Tecnologias"/>
-
-</a>
+  <img 
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joabe-Nogueira&layout=compact&theme=tokyonight"
+  />
 </div>
 
 ---
 
-## 🌎 Contato
+# 🌎 Contato
 
 📫 GitHub: https://github.com/Joabe-Nogueira
