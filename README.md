@@ -1,11 +1,9 @@
 # 👾 Joabe Nogueira
 
 <sub>
-
 💻 Desenvolvedor Full Stack em formação  
 🎓 Sistemas de Informação - UFR  
 🚀 Apaixonado por tecnologia e desenvolvimento web  
-
 </sub>
 ---
 
