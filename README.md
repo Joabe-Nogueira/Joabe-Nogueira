@@ -4,9 +4,6 @@
 🎓 Sistemas de Informação - UFR  
 🚀 Apaixonado por tecnologia e desenvolvimento web  
 
----
-
-# 🚀 Tecnologias
 
 # 🚀 Tecnologias
 
@@ -16,38 +13,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60px" />
 </p>
 
-# 📚 Atualmente estudando
-
-- HTML5
-- CSS3
-- JavaScript
-- Lógica de Programação
-- Desenvolvimento Web
-
----
-
-# 📌 Projetos
-
-🔹 Jogo educacional baseado em comandos  
-🔹 Sistema de estoque em desenvolvimento  
-
----
-
-# 📊 GitHub Stats
-
-<div align="left">
-  <img 
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=Joabe-Nogueira&show_icons=true&theme=tokyonight"
-  />
-
-  <img 
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joabe-Nogueira&layout=compact&theme=tokyonight"
-  />
-</div>
-
----
 
 # 🌎 Contato
 
